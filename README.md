@@ -77,6 +77,25 @@ On the app side you will use Apollo Client to perform queries. Apollo Documentat
 
 To style your app, you can use whatever solution you like (css modules, style props, CSS in JS library). Don't spend to much time polishing your app 😉.
 
+# D-Day Presentation
+
+## What you will present
+Unfortunatly, won't be able to cover all the code you wrote. So you will present in the following steps :
+1. Present the full app and user flow
+2. Choose a specific feature that you implemened. Present the tech choices you made, the trade-offs ...
+3. Optionnaly, choose a difficulty you faced. Explain you it was blocking, the solutions you tried ...
+
+## Review Criterion
+
+In this section you will find a non-exhaustive list of things (not in any specific order) that we'll look at during the review.
+
+- Overall quality of code (consistency, respect of standards, readability)
+- Respect of project requirements
+- Visual quality (UI)
+- Project structure (repo & code organization)
+- Git usage (efficient usage of git)
+
+
 ## Bonus
 
 If you really want to, you can chose **1 or 2** extra features that you think the app would highly benefit from and implement them.  
@@ -88,15 +107,6 @@ Such features could be in no specific order :
 - Some filters
 - A way to navigate from one flight modal to the next (in chronologic order)
 
-## Review Criterion
-
-In this section you will find a non-exhaustive list of things (not in any specific order) that we'll look at during the review.
-
-- Overall quality of code (consistency, respect of standards, readability)
-- Respect of project requirements
-- Visual quality (UI)
-- Project structure (repo & code organization)
-- Git usage (efficient usage of git)
 
 ## Resources
 
