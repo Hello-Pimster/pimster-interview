@@ -69,7 +69,7 @@ As for usual Next.js App, the project is structured in the following way :
 ### API
 
 The API you will use to get all the required data is a public **GraphQL** API.
-An explorer is available to build and test your queries : [GraphQL Space X Explorer](https://api.spacex.land/graphql/)
+An explorer is available to build and test your queries : [GraphQL Space X Explorer](https://spacex-production.up.railway.app/)
 
 On the app side you will use Apollo Client to perform queries. Apollo Documentation can be found [here](https://www.apollographql.com/docs/react). The client is already set-up in the app and you can start querying !
 
@@ -113,6 +113,6 @@ Such features could be in no specific order :
 | Title                       | Topic          | Link                                                                     |
 | --------------------------- | -------------- | ------------------------------------------------------------------------ |
 | Next.js Doc                 | Next.js        | [link](https://nextjs.org/docs/getting-started)                          |
-| SpaceX GraphQL API Explorer | API            | [link](https://api.spacex.land/graphql)                                  |
+| SpaceX GraphQL API Explorer | API            | [link](https://spacex-production.up.railway.app/)                        |
 | Apollo React Client Doc     | Apollo GraphQL | [link](https://www.apollographql.com/docs/react)                         |
 | Apollo Nextjs Exemple       | Apollo Next    | [link](https://github.com/vercel/next.js/tree/main/examples/with-apollo) |
