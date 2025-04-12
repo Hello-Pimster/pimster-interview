@@ -10,7 +10,7 @@
   },
   "dependencies": {
     "@apollo/client": "^3.5.10",
-    "deepmerge": "^4.2.2",
+    "deepmerge": "^4.3.1",
     "graphql": "^16.3.0",
     "lodash": "^4.17.21",
     "next": "12.1.0",
